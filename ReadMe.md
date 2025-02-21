@@ -46,5 +46,5 @@
 
 | Project 1 | Project 2 |
 | :--------:| :--------:|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff&repo=GEADEZIST&theme=radical)](https://github.com/Eshkhuvvatofff/GEADEZIST) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff&repo=GameVault&theme=radical)](https://github.com/Eshkhuvvatofff/GameVault) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff-dev&repo=GEADEZIST&theme=radical)](https://github.com/Eshkhuvvatofff-dev/GEADEZIST) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff-dev&repo=GameVault&theme=radical)](https://github.com/Eshkhuvvatofff-dev/GameVault) |
 </div>
