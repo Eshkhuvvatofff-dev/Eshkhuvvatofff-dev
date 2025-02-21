@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eshkhuvvatofff&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eshkhuvvatofff-dev&show_icons=true&theme=radical)
 
 | Project 1 | Project 2 |
 | :--------:| :--------:|
