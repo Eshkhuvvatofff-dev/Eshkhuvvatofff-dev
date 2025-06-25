@@ -227,57 +227,29 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
   </a>
 </p>
 
-<h3 align="center">Latest Dev.to</h3>
-
-![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=kenangain)
-
-<br/>
-
-<table>
+<!-- <table>
   <tr>
-    <!-- Dev Profile Header -->
     <th align="center">
       Dev Profile
     </th>
-    <!-- roadmap.sh Profile Header -->
     <th align="center">
       roadmap.sh Profile
     </th>
   </tr>
   <tr>
-    <!-- Dev Profile -->
     <td align="center">
      <a href="https://app.daily.dev/kenangain"><img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=gnk" width="356" alt="Kenan Gain's Dev Card"/></a>
     </td>
-    <!-- roadmap.sh Profile -->
     <td align="center">
       <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
     </td>
   </tr>
-</table>
+</table> -->
 
 <h3 align="center">Stardev.io</h3>
 
-<a href="https://stardev.io/developers/KenanGain"><img alt="Check out KenanGain&apos;s profile on stardev.io" src="https://stardev.io/developers/KenanGain/badge/languages/global.svg" /></a>
+<a href="https://stardev.io/developers/Eshkhuvvatofff-dev"><img alt="Check out Eshkhuvvatofff-dev's profile on stardev.io" src="https://stardev.io/developers/Eshkhuvvatofff-dev/badge/languages/global.svg" /></a>
 
-
-<h3 align="center">Stack overflow</h3>
-
-<table>
-  <tr>
-    <th colspan="2">Stack Overflow</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://stackoverflow.com/users/21519409/kenan-gain">
-        <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21519409" alt="Stack Overflow Card for KenanGain">
-      </a>
-    </td>
-    <td>
-      <img src="https://github-stackoverflow-readme.vercel.app/?userId=21519409" alt="Stack Overflow Stats for KenanGain">
-    </td>
-  </tr>
-</table>
 
 </div>
 
