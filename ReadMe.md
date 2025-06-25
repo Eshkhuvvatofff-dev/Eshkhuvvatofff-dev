@@ -7,12 +7,13 @@
 
   </a>
 </div> -->
+<div align="center">
 
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Asliddin</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Eshkhuvvatofff;Frontend+Developer;React+Enthusiast;Let's+build+something+cool!+🚀)
 
-
+</div>
 
 <p align="center">
   Frontend developer | Gamer | Otaku
