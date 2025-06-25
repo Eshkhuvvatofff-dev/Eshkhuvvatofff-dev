@@ -333,9 +333,9 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
-      <td align="center" style="border: none;">
+      <!-- <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
-      </td>
+      </td> -->
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
       </td>
@@ -365,137 +365,13 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
-      <td align="center" style="border: none;">
+      <!-- <td align="center" style="border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
-      </td>
+      </td> -->
     </tr>
   </tbody>
 </table>
 </div>
-
-<h3 align="center">Cloud Computing & DevOps</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="2" align="center" style="color: white;">Infrastructure as Code</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
-      </td>
-        <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/><br>Ansible
-       </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<h3 align="center">AI/ML & Data Science</h3>
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/><br>Pandas
-      </td>
-      <td align="center" style="border: none;">
-<!--         <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
-      </td>
-    </tr>
-  </tbody>
- </table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>LangChain
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
-      </td>
-  <td align="center" style="border: none;">
-        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
-      </td>
-    </tr>
-  </tbody>
-</table>
 </div>
 
 
@@ -520,7 +396,7 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
         <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
       </td>
       <td align="center" style="border: none;">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Copilot
       </td>
       <td align="center" style="border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
@@ -533,146 +409,6 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 </table>
 </div>
 
-<h3 align="center">Streaming & Video Editing</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="2" align="center" style="color: white;">Streaming Platforms</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" width="50" height="50" alt="Twitch"/><br>Twitch
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="50" height="50" alt="YouTube"/><br>YouTube
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th align="center" style="color: white;">Streaming Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" width="50" height="50" alt="OBS"/><br>OBS
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <!-- Update colspan to 4 if you're adding a fourth column -->
-        <th colspan="4" align="center" style="color: white;">Video Editing Tools</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="50" height="50" alt="Adobe Photoshop"/><br>Adobe Photoshop
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="50" height="50" alt="Adobe Premiere Pro"/><br>Adobe Premiere Pro
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" width="50" height="50" alt="Adobe After Effects"/><br>Adobe After Effects
-        </td>
-        <!-- DaVinci Resolve icon from Wikipedia -->
-        <td align="center" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="50" height="50" alt="DaVinci Resolve"/><br>DaVinci Resolve
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-
-
-## 🎥 My YouTube Channel
-
-### My Videos
-
-<table>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=cicZ6CvEpi0"><img src="https://img.youtube.com/vi/cicZ6CvEpi0/0.jpg" alt="Knight Gamer Setup 2.0" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=cicZ6CvEpi0">Knight Gamer Setup 2.0</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=znd-OlyoNyQ"><img src="https://img.youtube.com/vi/znd-OlyoNyQ/0.jpg" alt="Bora Bora (Valorant Montage) | 1440p" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=znd-OlyoNyQ">Bora Bora (Valorant Montage) | 1440p</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=CYP_E5epgEU"><img src="https://img.youtube.com/vi/CYP_E5epgEU/0.jpg" alt="Knight Gamer Logo" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=CYP_E5epgEU">Lean on</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=1HN--BxRcb4"><img src="https://img.youtube.com/vi/1HN--BxRcb4/0.jpg" alt="Epic Gameplay Montage" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=1HN--BxRcb4">Epic Gameplay Montage</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=sdLwa-Ckri0"><img src="https://img.youtube.com/vi/sdLwa-Ckri0/0.jpg" alt="QHD 60FPS" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=sdLwa-Ckri0">QHD 60FPS</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=5avcAkIMUWw"><img src="https://img.youtube.com/vi/5avcAkIMUWw/0.jpg" alt="BGMI Frag Movie" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=5avcAkIMUWw">BGMI Frag Movie</a></p>
-    </td>
-  </tr>
-</table>
-
-</br>
-
-### GIFs, Memes, and Jokes
-
-<details>
-<summary>GIFs, Memes, and Jokes</summary>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
-      </td>
-      <td>
-        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/docker-pull-ubuntu.gif" />
-      </td>
-      <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/linus-tech.gif" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/feature-tree.gif" />
-      </td>
-      <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/do-not-run-python-python-computer.gif" />
-      </td>
-    </tr>
-  </table>
-</div>
-</details>
-
 </br>
 <details>
   <summary>Wanna Play a Game?</summary>
@@ -682,137 +418,12 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
   <br />
 </details>
 
-
-
-
-
-<h2 align="center">🎵 My Spotify Playlist</h2>
-
-Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions, fueling creativity, or simply unwinding. Each track has been selected to ensure an uninterrupted, high-quality audio experience.
-<h5 align="center">Enjoy the tunes!</h5>
-<p align="center">
-<a href="https://open.spotify.com/playlist/3ilkWwO6fhn43pkqKXn1Px?si=f04db909fd8342eb" target="_blank">
-  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide" alt="My Playlist">
-</a>
-
-
-</p>
-
-
-
-<h3 align="center">Top Artists of Playlist</h3>
-
-<div align="center">
-  <div style="text-align:center"><img src="https://card.elwan.ch/?username=31hah4yq6es2tjearprp6ir2bmhi" /></div>
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hah4yq6es2tjearprp6ir2bmhi&count=5">
-      </td>
-      <td>
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31hah4yq6es2tjearprp6ir2bmhi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
-      </td>
-    </tr>
-  </table>
-
-  <details>
-    <summary>View Data Card for Spotify</summary>
-    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31hah4yq6es2tjearprp6ir2bmhi">
-      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31hah4yq6es2tjearprp6ir2bmhi" alt="Data Card for Spotify">
-    </a>
-  </details>
-</div>
-
-
-
-
-<h2 align="center">Support Me</h2>
-<div align="center">
-  <table align="center">
-    <tr>
-      <th align="center">
-        <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://www.paypal.com/donate/?business=V6UVH9LBFUF26&no_recurring=0&currency_code=CAD" target="_blank">
-          <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://donate.stripe.com/00gg0R3Kvh0HcGkfYY" target="_blank">
-          <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px; width="200px">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://ko-fi.com/M4M410M65J" target="_blank">
-          <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-        </a>
-      </th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-       <img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/f7f4fefb-1a07-4390-b2ea-a4b40d4f19f6" alt="Stripe QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-        <img src="https://storage.ko-fi.com/cdn/useruploads/M4M410M65J/qrcode.png?v=73a1af41-4248-463b-a7e8-77530b34d420?v=2" alt="Ko-fi QR Code" width="150" height="150">
-      </td>
-    </tr>
-  </table>
-
-
-
-<h2 align="center">📫 Let's Connect!</h2>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>Email</th>
-      <th>WhatsApp (Canada)</th>
-      <th>WhatsApp (India)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="mailto:kenangain2910@gmail.com" target="_blank">
-          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 80px; margin: 10px;">
-          <br>
-          kenangain2910@gmail.com
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://wa.me/14374364786" target="_blank">
-          <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" alt="WhatsApp Canada" style="width: 80px; margin: 10px;">
-          <br>
-          +1-437-436-4786
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://wa.me/918200280008" target="_blank">
-          <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" alt="WhatsApp India" style="width: 80px; margin: 10px;">
-          <br>
-          +91-820-028-0008
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <br>
 
 <h3>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [KenanGain](https://github.com/Eshkhuvvatofff-dev) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
