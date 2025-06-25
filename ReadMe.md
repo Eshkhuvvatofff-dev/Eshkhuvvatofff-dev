@@ -132,10 +132,11 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/Eshkhuvvatofff-dev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Eshkhuvvatofff's GitHub Stats">
+  <img src="" alt="">
       <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff-dev?theme=dark" alt="Eshkhuvvatofff's GitHub Stats">
       <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Eshkhuvvatofff-dev" alt="Advanced GitHub Stats for Eshkhuvvatofff" width="400">
 
