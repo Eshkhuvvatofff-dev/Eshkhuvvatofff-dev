@@ -80,7 +80,7 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eshkhuvvatofff-dev&theme=highcontrast&hide_border=true">
 
-### Top Repositories
+<!-- ### Top Repositories
 <div align="center">
   <table>
     <tr>
@@ -122,11 +122,11 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
   </table>
 </div>
 
-
+ -->
 
 ### GitHub Contribution Chart
-<a href="https://github.com/KenanGain">
-    <img src="https://ghchart.rshah.org/KenanGain" alt="KenanGain's GitHub Contribution Chart">
+<a href="https://github.com/Eshkhuvvatofff-dev">
+    <img src="https://ghchart.rshah.org/Eshkhuvvatofff-dev" alt="Eshkhuvvatofff's GitHub Contribution Chart">
 </a>
 
 
@@ -135,9 +135,9 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/KenanGain?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/KenanGain?theme=dark" alt="KenanGain's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KenanGain" alt="Advanced GitHub Stats for KenanGain" width="400">
+  <img src="https://myreadme.vercel.app/api/embed/Eshkhuvvatofff-dev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Eshkhuvvatofff's GitHub Stats">
+      <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff-dev?theme=dark" alt="Eshkhuvvatofff's GitHub Stats">
+      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Eshkhuvvatofff-dev" alt="Advanced GitHub Stats for Eshkhuvvatofff" width="400">
 
 
 </details>
