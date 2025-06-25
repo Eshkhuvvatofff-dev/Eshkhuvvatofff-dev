@@ -202,70 +202,7 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/saraai.gif"  alt="Sara AI"/>
-      <br>
-      <strong>Sara AI for Canadian Tire</strong>
-      <br>
-      AI-enhanced shopping experience
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/weatheraiapp3.gif"  alt="Weather 3D AI App"/>
-      <br>
-      <strong>Weather-3D-AI App</strong>
-      <br>
-      Modern design with shadcn UI, AI integration, Wikipedia, and local news widgets
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/gemininano.gif" alt="Fast Gemini Nano"/>
-      <br>
-      <strong>Fast-Gemini-Nano</strong>
-      <br>
-      Local LLM Chrome AI – extremely fast, still in development but highly promising
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/falling-down-hiro-hamada.gif"  alt="AI Content Creation"/>
-      <br>
-      <strong>AI-Powered Content Creation</strong>
-      <br>
-      Automated content generation using various LLMs
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/maplelawai.png"  alt="MapleLaw AI"/>
-      <br>
-      <strong>MapleLaw AI</strong>
-      <br>
-      Legal information assistant for Canadian citizens
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/pcbuild.gif"  alt="4K60 Streaming"/>
-      <br>
-      <strong>4K60 Streaming Setup</strong>
-      <br>
-      High-performance streaming with instant replay
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/k8s-kubernetes.gif" width="300" alt="Cloud-Native Web Apps"/>
-      <br>
-      <strong>Cloud-Native Web Apps</strong>
-      <br>
-      Next.js, React, Django with Docker & Kubernetes
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/billiondollars.gif" alt="Your Next Project?"/>
-      <br>
-      <strong>Next Project?</strong>
-      <br>
-      Let's collaborate on something amazing!
-    </td>
-  </tr>
-</table>
+
 
 </div>
 
@@ -273,17 +210,17 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 
 <div align="center">
   <h2 align="center" style="display: inline-flex; align-items: baseline;">
-    Socials Stats <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
+    Socials Stats 
   </h2>
 </div>
 
 <div align="center">
   <div align="center">
-    <a href="https://www.instagram.com/knightgamer87/" target="_blank">
+    <a href="https://www.instagram.com/eshkhuvvatofff/" target="_blank">
           <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
         </a>
     <h3>
-     <a href="https://www.instagram.com/knightgamer87/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
+     <a href="https://www.instagram.com/eshkhuvvatofff/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
   Follow Me on Instagram
 </a>
     </h3>
