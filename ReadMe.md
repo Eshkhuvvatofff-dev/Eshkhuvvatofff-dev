@@ -214,78 +214,16 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
   </h2>
 </div>
 
-<div align="center">
-  <div align="center">
-    <a href="https://www.instagram.com/eshkhuvvatofff/" target="_blank">
-          <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-        </a>
-    <h3>
-     <a href="https://www.instagram.com/eshkhuvvatofff/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
-  Follow Me on Instagram
-</a>
-    </h3>
-  </div>
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <div>
-          <img src="https://img.shields.io/badge/Instagram-382%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
-          <img src="https://img.shields.io/badge/Instagram-230%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
-        </div>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-<div align="center">
-
 
 <div align="center">
 
-<div align="center">
-<img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord Logo"/>
-</div>
-  <h3>
-    <a href="https://discord.gg/YdDyV6QqEN">
-      Join Our Discord Community
-    </a>
-  </h3>
-
-</div>
-<table>
-  <tr>
-    <!-- Discord Widget Column -->
-    <td align="center" style="border: none;">
-      <a href="https://discord.gg/YdDyV6QqEN">
-        <img src="https://invidget.switchblade.xyz/YdDyV6QqEN" alt="Discord Widget">
-      </a>
-    </td>
-    <!-- Discord Banner Column -->
-    <td align="center" style="border: none;">
-      <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=banner3" alt="Discord Banner 3"/>
-    </td>
-    <!-- Discord Presence Column -->
-    <td align="center" style="border: none;">
-      <a href="https://discord.com/users/424279823817375746">
-        <img src="https://lanyard.cnrad.dev/api/424279823817375746" alt="Discord Presence">
-      </a>
-    </td>
-  </tr>
-</table>
 
 
-<h3 align="center">YouTube Stats</h3>
-
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCJmBG8lD1-aj1HQr4PFT-XQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
-<h3 align="center">Leetcode Stats</h3>
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?ext=heatmap"/>
-</p>
 
 <h3 align="center">Steam Profile</h3>
 <p align="center">
-  <a href="https://steamcommunity.com/profiles/76561198828144879/">
-  <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198828144879&show_in_game_bg=true&show_recent_game_bg=true"/>
+  <a href="https://steamcommunity.com/profiles/76561199806386951/">
+  <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199806386951&show_in_game_bg=true&show_recent_game_bg=true"/>
   </a>
 </p>
 
