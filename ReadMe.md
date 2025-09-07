@@ -140,7 +140,7 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff?theme=dark" alt="Eshkhuvvatofff's GitHub Stats" width="400" height="270">
+  <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff?theme=dark" alt="Eshkhuvvatofff's GitHub Stats" height="250">
 
 
 
