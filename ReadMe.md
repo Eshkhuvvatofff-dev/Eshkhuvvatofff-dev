@@ -56,12 +56,12 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 
 <h3 align="center">Git Stats</h3>
 
+
 <div align="center">
  
   <img src="https://streak-stats.demolab.com/?user=Eshkhuvvatofff-dev&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Eshkhuvvatofff-dev)](https://git.io/streak-stats)
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshkhuvvatofff-dev&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshkhuvvatofff-dev&custom_title=Eshkhuvvatofff's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" /> -->
 <br>
 <div align="center">
 <table>
@@ -79,8 +79,8 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 </table>
 
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eshkhuvvatofff-dev&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+<!-- 
+<img src="https://github-readme-stats.vercel.app/api?username=eshkhuvvatofff-dev&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats"> -->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eshkhuvvatofff-dev&theme=highcontrast&hide_border=true">
 
@@ -135,13 +135,13 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 
 
 <details>
-<!--   <summary style="font-size: 1.17em; font-weight: bold;">
+  <summary style="font-size: 1.17em; font-weight: bold;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary> -->
+  </summary>
   
-<!--       <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff-dev?theme=dark" alt="Eshkhuvvatofff's GitHub Stats"> -->
-<!--       <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Eshkhuvvatofff-dev" alt="Advanced GitHub Stats for Eshkhuvvatofff" width="400"> -->
+  <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff-dev?theme=dark" alt="Eshkhuvvatofff's GitHub Stats">
+ <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Eshkhuvvatofff-dev" alt="Advanced GitHub Stats for Eshkhuvvatofff" width="400">
 
 
 </details>
