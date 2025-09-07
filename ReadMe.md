@@ -140,9 +140,10 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff?theme=dark" alt="Eshkhuvvatofff's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff-dev?theme=dark" alt="Eshkhuvvatofff's GitHub Stats">
 
-  [![My stats](https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff? theme=dark)](https://github.com/Eshkhuvvatofff)
+  [![My stats](https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff-dev?theme=dark)](https://github.com/Eshkhuvvatofff-dev)
+
 
 
  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Eshkhuvvatofff-dev" alt="Advanced GitHub Stats for Eshkhuvvatofff" width="400">
