@@ -140,7 +140,7 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff?theme=dark" alt="Eshkhuvvatofff's GitHub Stats" width="600">
+  <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff?theme=dark" alt="Eshkhuvvatofff's GitHub Stats" width="500">
 
 
 
@@ -253,14 +253,10 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
   </tr>
 </table> -->
 
-<h3 align="center">Stardev.io</h3>
-
-<a href="https://stardev.io/developers/Eshkhuvvatofff"><img alt="Check out Eshkhuvvatofff's profile on stardev.io" src="https://stardev.io/developers/Eshkhuvvatofff/badge/languages/global.svg" /></a>
-
 
 </div>
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"  height="40px"> Tech Stack</h1>
 
 <h3 align="center">Web Development</h3>
 
