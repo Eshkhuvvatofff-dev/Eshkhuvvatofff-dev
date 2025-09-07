@@ -32,7 +32,7 @@
 
 | Twitter | Discord | GitHub |
 | --- | --- | --- |
-| [![Eshkhuvvatofff](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@Eshkhuvvatofff&size=square)](https://x.com/Eshkhuvvatofff) | [![Eshkhuvvatofff](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Eshkhuvvatofff&size=square)](https://discord.gg/YdDysaV6QqEN) | [![Eshkhuvvatofff](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FEshkhuvvatofff&subtitle=Eshkhuvvatofff&size=square)](https://github.com/Eshkhuvvatofff-dev) |
+| [![Eshkhuvvatofff](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@Eshkhuvvatofff&size=square)](https://x.com/Eshkhuvvatofff) | [![Eshkhuvvatofff](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Eshkhuvvatofff&size=square)](https://discord.gg/YdDysaV6QqEN) | [![Eshkhuvvatofff](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FEshkhuvvatofff&subtitle=Eshkhuvvatofff&size=square)](https://github.com/Eshkhuvvatofff) |
 
 
 
@@ -42,7 +42,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eshkhuvvatofff-dev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=Eshkhuvvatofff&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
 
@@ -59,43 +59,43 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=Eshkhuvvatofff-dev&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Eshkhuvvatofff&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshkhuvvatofff-dev&custom_title=Eshkhuvvatofff's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" /> -->
+   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshkhuvvatofff&custom_title=Eshkhuvvatofff's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" /> -->
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshkhuvvatofff-dev&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshkhuvvatofff&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eshkhuvvatofff-dev&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eshkhuvvatofff&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eshkhuvvatofff-dev&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eshkhuvvatofff&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 <!-- 
-<img src="https://github-readme-stats.vercel.app/api?username=eshkhuvvatofff-dev&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=eshkhuvvatofff&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats"> -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eshkhuvvatofff-dev&theme=highcontrast&hide_border=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eshkhuvvatofff&theme=highcontrast&hide_border=true">
 
 <!-- ### Top Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/Eshkhuvvatofff-dev/GameVault">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff-dev&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Eshkhuvvatofff/GameVault">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/Eshkhuvvatofff-dev/GEADEZIST">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff-dev&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Eshkhuvvatofff/GEADEZIST">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -129,8 +129,8 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
  -->
 
 ### GitHub Contribution Chart
-<a href="https://github.com/Eshkhuvvatofff-dev">
-    <img src="https://ghchart.rshah.org/Eshkhuvvatofff-dev" alt="Eshkhuvvatofff's GitHub Contribution Chart">
+<a href="https://github.com/Eshkhuvvatofff">
+    <img src="https://ghchart.rshah.org/Eshkhuvvatofff" alt="Eshkhuvvatofff's GitHub Contribution Chart">
 </a>
 
 
@@ -140,13 +140,13 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff-dev?theme=dark" alt="Eshkhuvvatofff's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff?theme=dark" alt="Eshkhuvvatofff's GitHub Stats">
 
-  [![My stats](https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff-dev?theme=dark)](https://github.com/Eshkhuvvatofff-dev)
+  [![My stats](https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff?theme=dark)](https://github.com/Eshkhuvvatofff)
 
 
 
- <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Eshkhuvvatofff-dev" alt="Advanced GitHub Stats for Eshkhuvvatofff" width="400">
+ <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Eshkhuvvatofff" alt="Advanced GitHub Stats for Eshkhuvvatofff" width="400">
 
 
 </details>
@@ -159,8 +159,8 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Eshkhuvvatofff-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=Eshkhuvvatofff-dev" alt="GitHub Trophies for KenanGain">
+    <img src="https://github-profile-trophy.vercel.app/?username=Eshkhuvvatofff&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+  <img src="https://stats.dooboo.io/api/github-trophies?login=Eshkhuvvatofff" alt="GitHub Trophies for KenanGain">
 </details>
 
 
@@ -256,7 +256,7 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 
 <h3 align="center">Stardev.io</h3>
 
-<a href="https://stardev.io/developers/Eshkhuvvatofff-dev"><img alt="Check out Eshkhuvvatofff-dev's profile on stardev.io" src="https://stardev.io/developers/Eshkhuvvatofff-dev/badge/languages/global.svg" /></a>
+<a href="https://stardev.io/developers/Eshkhuvvatofff"><img alt="Check out Eshkhuvvatofff's profile on stardev.io" src="https://stardev.io/developers/Eshkhuvvatofff/badge/languages/global.svg" /></a>
 
 
 </div>
@@ -424,7 +424,7 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 <h3>
 <div align="center">
   
-⭐️ From [Asliddin](https://github.com/Eshkhuvvatofff-dev) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [Asliddin](https://github.com/Eshkhuvvatofff) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
