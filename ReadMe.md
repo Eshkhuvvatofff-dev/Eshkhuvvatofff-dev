@@ -142,7 +142,6 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
   
   <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff?theme=dark" alt="Eshkhuvvatofff's GitHub Stats">
 
-  [![My stats](https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff?theme=dark)](https://github.com/Eshkhuvvatofff)
 
 
 
