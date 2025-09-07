@@ -59,6 +59,7 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 <div align="center">
  
   <img src="https://streak-stats.demolab.com/?user=Eshkhuvvatofff-dev&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Eshkhuvvatofff-dev)](https://git.io/streak-stats)
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshkhuvvatofff-dev&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
@@ -134,14 +135,13 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 
 
 <details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
+<!--   <summary style="font-size: 1.17em; font-weight: bold;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
+  </summary> -->
   
-  <img src="" alt="">
-      <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff-dev?theme=dark" alt="Eshkhuvvatofff's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Eshkhuvvatofff-dev" alt="Advanced GitHub Stats for Eshkhuvvatofff" width="400">
+<!--       <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff-dev?theme=dark" alt="Eshkhuvvatofff's GitHub Stats"> -->
+<!--       <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Eshkhuvvatofff-dev" alt="Advanced GitHub Stats for Eshkhuvvatofff" width="400"> -->
 
 
 </details>
@@ -413,24 +413,18 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 </div>
 
 </br>
-<details>
-  <summary>Wanna Play a Game?</summary>
-
-  <h2 align="center">Enjoy the Game!</h2>
-  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
-  <br />
-</details>
 
 <br>
 
 <h3>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/Eshkhuvvatofff-dev) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [Asliddin](https://github.com/Eshkhuvvatofff-dev) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
 
