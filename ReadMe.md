@@ -123,25 +123,17 @@
 </div>
 
  -->
-
-### GitHub Contribution Chart
-<a href="https://github.com/Eshkhuvvatofff">
-    <img src="https://ghchart.rshah.org/Eshkhuvvatofff" alt="Eshkhuvvatofff's GitHub Contribution Chart">
-</a>
+  <br/>
 
 
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
+
   <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff?theme=dark" alt="Eshkhuvvatofff's GitHub Stats" width="500">
 
  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Eshkhuvvatofff" alt="Advanced GitHub Stats for Eshkhuvvatofff" width="400">
 
 
-</details>
 
 
 <br>
