@@ -354,35 +354,10 @@
 
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
 <div align="center">
-<table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; overflow: hidden; width: 100%; text-align: center;">
-  <thead>
-    <tr>
-      <th colspan="6" style="padding: 10px; font-size: 18px;">My AI Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: none; padding: 15px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
-      </td>
-      <td style="border: none; padding: 15px;">
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif?raw=true" alt="Gemini" width="80" height="80"/><br>Google Gemini
-      </td>
-      <td style="border: none; padding: 15px;">
-        <img src="https://seeklogo.com/images/D/deepseek-logo-5769C64757-seeklogo.com.png" width="70" height="70" alt="DeepSeek"/><br>DeepSeek
-      </td>
-      <td style="border: none; padding: 15px;">
-        <img src="https://avatars.githubusercontent.com/u/141273186?s=200&v=4" width="60" height="60" alt="Cursor AI"/><br>Cursor AI
-      </td>
-      <td style="border: none; padding: 15px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="80" height="80" alt="Microsoft Copilot"/><br>Microsoft Copilot
-      </td>
-      <td style="border: none; padding: 15px;">
-        <img src="https://bolt.new/favicon.ico" width="50" height="50" alt="Bolt.new"/><br>Bolt.new
-      </td>
-    </tr>
-  </tbody>
-</table>
+| ChatGPT | Google Gemini | DeepSeek | Cursor AI | Microsoft Copilot | Bolt.new |
+|---|---|---|---|---|---|
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"> | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google_Gemini_icon_2025.svg" width="50" height="50" alt="Google Gemini"> | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/DeepSeek_logo.svg" width="50" height="50" alt="DeepSeek"> | <img src="https://img.icons8.com/?size=50&id=DiGZkjCzyZXn&format=svg" width="50" height="50" alt="Cursor AI"> | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_365_Copilot_Icon_one-color.svg" width="50" height="50" alt="Microsoft Copilot"> | <img src="https://developer.stackblitz.com/img/logo/stackblitz-bolt-blue.svg" width="50" height="50" alt="Bolt.new"> |
+
 
 </div>
 
