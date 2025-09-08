@@ -125,7 +125,6 @@
 
   <br/>
   <br/>
-  <br/>
 
 
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;
@@ -355,36 +354,36 @@
 
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
 <div align="center">
- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border-collapse: collapse; border-radius: 15px; overflow: hidden; width: 100%; text-align: center;">
   <thead>
     <tr>
-      <th colspan="6" align="center" style="color: white;">AI Tools</th>
+      <th colspan="6" style="padding: 10px; font-size: 18px;">My AI Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
+      <td style="border: none; padding: 15px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
       </td>
-       <td align="center" style="border: none;">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
+      <td style="border: none; padding: 15px;">
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif?raw=true" alt="Gemini" width="80" height="80"/><br>Google Gemini
       </td>
-      <td align="center" style="border: none;">
-<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
+      <td style="border: none; padding: 15px;">
+        <img src="https://seeklogo.com/images/D/deepseek-logo-5769C64757-seeklogo.com.png" width="70" height="70" alt="DeepSeek"/><br>DeepSeek
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Copilot
+      <td style="border: none; padding: 15px;">
+        <img src="https://avatars.githubusercontent.com/u/141273186?s=200&v=4" width="60" height="60" alt="Cursor AI"/><br>Cursor AI
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
+      <td style="border: none; padding: 15px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="80" height="80" alt="Microsoft Copilot"/><br>Microsoft Copilot
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
+      <td style="border: none; padding: 15px;">
+        <img src="https://bolt.new/favicon.ico" width="50" height="50" alt="Bolt.new"/><br>Bolt.new
       </td>
     </tr>
   </tbody>
 </table>
+
 </div>
 
 </br>
