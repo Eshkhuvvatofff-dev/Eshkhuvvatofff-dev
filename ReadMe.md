@@ -354,9 +354,12 @@
 
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
 <div align="center">
-| ChatGPT | Google Gemini | DeepSeek | Cursor AI | Microsoft Copilot | Bolt.new |
+
+  # AI Tools & Prompt Engineering  
+
+<a href="https://chat.openai.com"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"></a> | <a href="https://gemini.google.com"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google_Gemini_icon_2025.svg" width="50" height="50" alt="Google Gemini"></a> | <a href="https://www.deepseek.com/"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/DeepSeek_logo.svg" width="50" height="50" alt="DeepSeek"></a> | <a href="https://www.cursor.com/"><img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" style="border-radius: 7px;" alt="Cursor AI"></a> | <a href="https://copilot.microsoft.com/"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_365_Copilot_Icon_one-color.svg" width="50" height="50" alt="Microsoft Copilot"></a> | <a href="https://bolt.new/"><img src="https://developer.stackblitz.com/img/logo/stackblitz-bolt-blue.svg" width="50" height="50" alt="Bolt.new"></a> |
 |---|---|---|---|---|---|
-| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"> | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google_Gemini_icon_2025.svg" width="50" height="50" alt="Google Gemini"> | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/DeepSeek_logo.svg" width="50" height="50" alt="DeepSeek"> | <img src="https://img.icons8.com/?size=50&id=DiGZkjCzyZXn&format=svg" width="50" height="50" alt="Cursor AI"> | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_365_Copilot_Icon_one-color.svg" width="50" height="50" alt="Microsoft Copilot"> | <img src="https://developer.stackblitz.com/img/logo/stackblitz-bolt-blue.svg" width="50" height="50" alt="Bolt.new"> |
+| ChatGPT | Google Gemini | DeepSeek | Cursor AI | Microsoft Copilot | Bolt.new |
 
 
 </div>
