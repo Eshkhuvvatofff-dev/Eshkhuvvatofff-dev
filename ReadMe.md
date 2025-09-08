@@ -49,23 +49,14 @@
 <h2 align="center">🚀 About Me</h2>
 
 
-Hi! I'm Eshkhuvvatofff – a frontend developer with a passion for crafting interactive and responsive web applications.  
-I love building clean user interfaces and learning new technologies.  
-In my free time, you'll probably find me gaming or watching anime.  
-Always excited to collaborate, grow, and contribute to meaningful projects!
+💻 I’m Eshkhuvvatofff, a frontend developer passionate about building clean, responsive, and interactive web apps. I love exploring new tech, gaming, and anime — always open to growth and collaboration!
 
 <h3 align="center">Git Stats</h3>
-
-
 <div align="center">
-
- ![GitHub Streak](https://streak-stats.demolab.com/?user=Eshkhuvvatofff&theme=highcontrast&hide_border=true)
-
-
-
 
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshkhuvvatofff&custom_title=Eshkhuvvatofff's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+
 <br>
 
 <div align="center">
@@ -147,9 +138,6 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
   
   <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff?theme=dark" alt="Eshkhuvvatofff's GitHub Stats" width="500">
 
-
-
-
  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Eshkhuvvatofff" alt="Advanced GitHub Stats for Eshkhuvvatofff" width="400">
 
 
@@ -163,7 +151,7 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Eshkhuvvatofff&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Eshkhuvvatofff&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
   <img src="https://stats.dooboo.io/api/github-trophies?login=Eshkhuvvatofff" alt="GitHub Trophies for KenanGain">
 </details>
 
@@ -207,24 +195,11 @@ Always excited to collaborate, grow, and contribute to meaningful projects!
     </tr>
   </table>
 </details>
-
-<br>
-
-## 🏆 Featured Projects
-
 <div align="center">
-
-
 
 </div>
 
 <br>
-
-<div align="center">
-  <h2 align="center" style="display: inline-flex; align-items: baseline;">
-    Socials Stats 
-  </h2>
-</div>
 
 
 <div align="center">
