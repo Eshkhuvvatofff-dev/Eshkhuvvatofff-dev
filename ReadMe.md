@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-  Frontend developer | Gamer | Otaku
+Frontend developer | Gamer | Bug Collector
 </p>
 
 <div align="center">
@@ -351,8 +351,7 @@
 </div>
 </div>
 
-
-<h3 align="center"> AI Tools & Prompt Engineering</h3>
+<br/>
 <div align="center">
 
   # AI Tools & Prompt Engineering  
