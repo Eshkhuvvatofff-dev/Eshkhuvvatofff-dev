@@ -86,16 +86,16 @@
     <tr>
       <td>
         <a href="https://github.com/Eshkhuvvatofff/GameVault">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff&repo=GameVault&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Eshkhuvvatofff/GEADEZIST">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff&repo=GEADEZIST&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         <a href="https://github.com/KenanGain/moviedjangoai">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
@@ -118,7 +118,7 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Llama-3.2_running_locally&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
-    </tr>
+    </tr> -->
   </table>
 </div>
 
@@ -132,7 +132,8 @@
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
 
   <img src="https://github-readme-bento.vercel.app/stats/Eshkhuvvatofff?theme=dark" alt="Eshkhuvvatofff's GitHub Stats" width="500">
-
+<br/>
+<br/>
  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Eshkhuvvatofff" alt="Advanced GitHub Stats for Eshkhuvvatofff" width="400">
 
 
