@@ -298,8 +298,8 @@ Frontend developer | Gamer | Bug Collector
 
 
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+
+<!-- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Backend</th>
@@ -320,12 +320,9 @@ Frontend developer | Gamer | Bug Collector
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
       </td>
     </tr>
-  </tbody>
-</table>
-</div>
+<!-- </table> -->
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<!-- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Database</th>
@@ -345,10 +342,8 @@ Frontend developer | Gamer | Bug Collector
       <!-- <td align="center" style="border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
       </td> -->
-    </tr>
-  </tbody>
-</table>
-</div>
+<!--     </tr> -->
+<!--   </tbody> --> -->
 </div>
 
 <br/>
@@ -377,5 +372,6 @@ Frontend developer | Gamer | Bug Collector
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
 
 
