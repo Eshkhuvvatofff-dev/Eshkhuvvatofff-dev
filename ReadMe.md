@@ -222,7 +222,7 @@ Frontend developer | Gamer | Bug Collector
      <a href="https://app.daily.dev/eshkhuvvatofff"><img src="https://api.daily.dev/devcards/v2/N8LvfiKYCVj9agz46ptWU.png?type=default&r=a9c" width="356" alt="Kenan Gain's Dev Card"/></a>
     </td>
     <td align="center">
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68caa56e1a0296edefdfd1c0?variant=dark"" alt="roadmap.sh"/></a>   
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68caa56e1a0296edefdfd1c0?variant=dark" alt="roadmap.sh"/></a>   
     </td>
   </tr>
 </table>
@@ -230,7 +230,10 @@ Frontend developer | Gamer | Bug Collector
 
 </div>
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"  height="40px"> Tech Stack</h1>
+<div align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px" style="display: inline;position:relative; top:8px; right:10px;">
+ <h1 style="display: inline">Tech Stack</h1>
+ </div>
 
 <h3 align="center">Web Development</h3>
 
