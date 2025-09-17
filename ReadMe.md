@@ -299,7 +299,7 @@ Frontend developer | Gamer | Bug Collector
 
 
 
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<!-- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Backend</th>
@@ -320,9 +320,9 @@ Frontend developer | Gamer | Bug Collector
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
       </td>
     </tr>
-</table>
+</table> -->
 
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<!-- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Database</th>
@@ -344,7 +344,7 @@ Frontend developer | Gamer | Bug Collector
       </td>
     </tr>
   </tbody>
-</div>
+</table> -->
 
 <br/>
 <div align="center">
