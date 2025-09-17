@@ -208,7 +208,7 @@ Frontend developer | Gamer | Bug Collector
   </a>
 </p>
 
-<!-- <table>
+<table>
   <tr>
     <th align="center">
       Dev Profile
@@ -219,13 +219,13 @@ Frontend developer | Gamer | Bug Collector
   </tr>
   <tr>
     <td align="center">
-     <a href="https://app.daily.dev/kenangain"><img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=gnk" width="356" alt="Kenan Gain's Dev Card"/></a>
+     <a href="https://app.daily.dev/eshkhuvvatofff"><img src="https://api.daily.dev/devcards/v2/N8LvfiKYCVj9agz46ptWU.png?type=default&r=a9c" width="356" alt="Kenan Gain's Dev Card"/></a>
     </td>
     <td align="center">
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68caa56e1a0296edefdfd1c0?variant=dark"" alt="roadmap.sh"/></a>   
     </td>
   </tr>
-</table> -->
+</table>
 
 
 </div>
@@ -299,7 +299,7 @@ Frontend developer | Gamer | Bug Collector
 
 
 
-<!-- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Backend</th>
@@ -310,9 +310,9 @@ Frontend developer | Gamer | Bug Collector
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
-      <!-- <td align="center" style="border: none;">
+      <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
-      </td> -->
+      </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
       </td>
@@ -320,9 +320,9 @@ Frontend developer | Gamer | Bug Collector
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
       </td>
     </tr>
-<!-- </table> -->
+</table>
 
-<!-- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Database</th>
@@ -339,11 +339,11 @@ Frontend developer | Gamer | Bug Collector
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
-      <!-- <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
-      </td> -->
-<!--     </tr> -->
-<!--   </tbody> --> -->
+       <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>
+      </td>
+    </tr>
+  </tbody>
 </div>
 
 <br/>
