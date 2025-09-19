@@ -222,7 +222,7 @@ Frontend developer | Gamer | Bug Collector
      <a href="https://app.daily.dev/eshkhuvvatofff"><img src="https://api.daily.dev/devcards/v2/N8LvfiKYCVj9agz46ptWU.png?type=default&r=a9c" width="356" alt="Kenan Gain's Dev Card"/></a>
     </td>
     <td align="center">
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68caa56e1a0296edefdfd1c0?variant=dark" alt="roadmap.sh"/></a>   
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68caa56e1a0296edefdfd1c0?variant=light" alt="roadmap.sh"/></a>
     </td>
   </tr>
 </table>
@@ -375,6 +375,7 @@ Frontend developer | Gamer | Bug Collector
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
 
 
 
