@@ -219,7 +219,7 @@ Frontend developer | Gamer | Bug Collector
   </tr>
   <tr>
     <td align="center">
-     <a href="https://app.daily.dev/eshkhuvvatofff"><img src="https://api.daily.dev/devcards/v2/N8LvfiKYCVj9agz46ptWU.png?type=default&r=a9c" width="356" alt="Kenan Gain's Dev Card"/></a>
+     <a href="https://app.daily.dev/eshkhuvvatofff"><img src="https://api.daily.dev/devcards/v2/N8LvfiKYCVj9agz46ptWU.png?type=default&r=a9c" width="356" alt="Eshkhuvvatofff"/></a>
     </td>
     <td align="center">
       <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68caa56e1a0296edefdfd1c0?variant=dark&roadmaps=javascript%2Creact%2Cnextjs" alt="roadmap.sh"/></a>
@@ -231,9 +231,20 @@ Frontend developer | Gamer | Bug Collector
 </div>
 
 <div align="center">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px" style="display: inline;position:relative; top:8px; right:10px;">
- <h1 style="display: inline">Tech Stack</h1>
- </div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
+      </td>
+      <td>
+        <h1>Tech Stack</h1>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 
 <h3 align="center">Web Development</h3>
 
@@ -375,6 +386,7 @@ Frontend developer | Gamer | Bug Collector
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
 
 
 
